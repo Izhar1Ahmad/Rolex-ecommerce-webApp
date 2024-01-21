@@ -1,2 +1,2 @@
-# Rolex ecommerce webApp
+# Rolex ecommerce webApp (responsive)
  HTML - CSS - JAVASCRIPT
